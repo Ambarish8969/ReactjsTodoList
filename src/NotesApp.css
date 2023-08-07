@@ -1,0 +1,8 @@
+body{
+    background-image: url(todoimage.jpg);
+    background-size: cover;
+}
+.card-list{
+    margin-left: 40px;
+    margin-top: 70px;
+}
