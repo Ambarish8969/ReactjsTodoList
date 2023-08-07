@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c1c2c69c.css","mappings":"AAAA,KACI,sFAAoC,CACpC,qBACJ,CACA,WACI,gBAAiB,CACjB,eACJ","sources":["NotesApp.css"],"sourcesContent":["body{\r\n    background-image: url(todoimage.jpg);\r\n    background-size: cover;\r\n}\r\n.card-list{\r\n    margin-left: 40px;\r\n    margin-top: 70px;\r\n}"],"names":[],"sourceRoot":""}
